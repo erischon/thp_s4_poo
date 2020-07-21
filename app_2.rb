@@ -72,7 +72,6 @@ loop do
 
 end
 
-
 puts "La partie est finie"
 
 if humanplayer.life_points > 0 
